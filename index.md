@@ -25,6 +25,6 @@ As part of your semester-long look at reporting and other skills through the len
 - [CensusReporter.org](http://censusreporter.org/) provides demographic data on a variety levels (city, county, Census Tract) that can be downloaded or viewed online. 
 
 ### Class Visits and Assignments
-1. [September 18, 2017](https://coulterjones/github.io/New-School-NND-III-lichter/Week1).
+1. [September 18, 2017](Week1.md).
 2. October 30 (link TK)
 3. November 6 (link TK)
