@@ -25,14 +25,6 @@ As part of your semester-long look at reporting and other skills through the len
 - [CensusReporter.org](http://censusreporter.org/) provides demographic data on a variety levels (city, county, Census Tract) that can be downloaded or viewed online. 
 
 ### Class Visits and Assignments
-1. [September 18, 2017](https://coulterjones/github.io//New-School-NND-III-lichter/Week1).
+1. [September 18, 2017](https://coulterjones/github.io/New-School-NND-III-lichter/Week1).
 2. October 30 (link TK)
 3. November 6 (link TK)
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/CoulterJones/New-School-NND-III-lichter/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
