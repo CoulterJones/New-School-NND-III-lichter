@@ -1,4 +1,18 @@
-## Welcome to GitHub Pages
+# News Narrative & Design III (Fall 2017)
+## Professor Alison Lichter
+#### Monday, 9 - 11:40 a.m.
+
+
+Link to this site: [xxxx](https://github.com/CoulterJones/New-School-NND-III-lichter/edit/master/index.md) 
+
+**Data Embed** Coulter Jones 
+Reporter, _The Wall Street Journal._ 
+[coulterjones@gmail.com](mailto:coulterjones@gmail.com)
+
+
+### First Visit:
+
+
 
 You can use the [editor on GitHub](https://github.com/CoulterJones/New-School-NND-III-lichter/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
