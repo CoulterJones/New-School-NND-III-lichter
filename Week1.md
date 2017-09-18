@@ -1,6 +1,6 @@
 ## Week 1 Lessons and Assignment
 
-### This week we will 
+### Covered this week 
 1. Review rates and ratios
 2. Review summary formulas in spreadsheets, such as _SUM_ and _AVERAGE_.
 3. Explore data sourcing for stories
