@@ -3,11 +3,10 @@
 #### Monday, 9 - 11:40 a.m.
 
 
-Link to this site: [xxxx](https://github.com/CoulterJones/New-School-NND-III-lichter/edit/master/index.md) 
+Link to this site: [bit.ly/new-school-fall-17](http://bit.ly/new-school-fall-17) 
 
-**Data Embed** Coulter Jones ioi
+**Data Embed:** Coulter Jones, Reporter, _The Wall Street Journal._ 
 
-Reporter, _The Wall Street Journal._ 
 
 [coulterjones@gmail.com](mailto:coulterjones@gmail.com)
 
