@@ -2,13 +2,37 @@
 ## Professor Alison Lichter
 #### Monday, 9 - 11:40 a.m.
 
+This site is a collection of resources, lessons plans and assignments for the data portion of your NND III course. This site can be accessed at [bit.ly/new-school-fall-17](http://bit.ly/new-school-fall-17) 
 
-Link to this site: [bit.ly/new-school-fall-17](http://bit.ly/new-school-fall-17) 
-
-**Data Embed:** Coulter Jones, Reporter, _The Wall Street Journal._ 
+**Contacting your data embed:** Coulter Jones, Reporter, _The Wall Street Journal._ can be reached via email at [coulterjones@gmail.com](mailto:coulterjones@gmail.com)
 
 
-[coulterjones@gmail.com](mailto:coulterjones@gmail.com)
+## Resources
+
+- Bulleted
+- List
+- Bulleted
+- List
+- Bulleted
+- List
+
+## Data objectives 
+In addition t. By the end of the semester, you should 
+
+NND III
+Data in the real world
+Review where to find data and how to request data from governments
+Importing data that isn’t already ready in a spreadsheet
+Import .csv and other formats into a spreadsheet program 
+Simple scraping with Google Docs 
+Using tabula or other program to parse PDFs into a spreadsheet
+
+Cleaning data up
+Using advanced functions to parse data
+Formatting dates
+Text to columns and parsing state and cities in campus data or other data from data bank. 
+Tricks and tips when working with government data 
+
 
 
 ### First Visit (Sept. 18)
