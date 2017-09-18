@@ -1,5 +1,5 @@
 ## Week 1 Lessons and Assignment
-[Back to main page](https://github.com/CoulterJones/New-School-NND-III-lichter)
+[Back to main page](../)
 
 ### Covered this week 
 1. Review rates and ratios
@@ -14,4 +14,4 @@ Due by **7 a.m. on Sunday, Sept. 24, 2017**. No extensions given.
 
 - Complete [the introduction quiz](https://docs.google.com/forms/d/e/1FAIpQLSdf-XB0m67goMf7zOY87FO4sYG91cOEzChTCmpqdC7j8XQ4kg/viewform?usp=sf_link)
 
-- Email Coulter one story idea based on the data sets used in class, explaining how you the data would help you report that story and what other questions you may answer. 
+- Email Coulter one story idea based on [the data sets](https://drive.google.com/drive/folders/0BwZ0ZPmeMXDkWVp2QnRoYzBncXM) used in class, explaining how you the data would help you report that story and what other questions you may answer. 
