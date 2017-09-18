@@ -4,44 +4,28 @@
 
 This site is a collection of resources, lessons plans and assignments for the data portion of your NND III course. This site can be accessed at [bit.ly/new-school-fall-17](http://bit.ly/new-school-fall-17) 
 
-**Contacting your data embed:** Coulter Jones, Reporter, _The Wall Street Journal._ can be reached via email at [coulterjones@gmail.com](mailto:coulterjones@gmail.com)
+**Contacting your data embed:** Coulter Jones, Reporter, _The Wall Street Journal._ can be reached via email at [coulterjones@gmail.com](mailto:coulterjones@gmail.com) or [jonescw@newschool.edu](mailto:jonescw@newschool.edu). Expect up to 24 hours for a response. 
+
+## Data Objectives
 
 
 ## Resources
 
-- Bulleted
-- List
-- Bulleted
-- List
-- Bulleted
-- List
+- This tipsheet covers most of the formulas you'll use in class, as well as some that we won't cover. [Common Formulas & Functions](https://docs.google.com/document/d/1EdF8_29LYLjRPagUmEdrs_4lcOip_XT1gjDUQBrSsSM/edit#heading=h.h8oucprv8ejs)
+- [Investigative Reporters and Editors](http://ire.org), is a national training and membership organization for journalists with several resources for journalists learning how to use data. 
+- This [Google Drive folder](https://drive.google.com/open?id=0BwZ0ZPmeMXDkWVp2QnRoYzBncXM) has data sets covering New York City, the New School, student loan debt and other topics for use this semester and in past semesters.
+- [New York City's Open Data site](https://opendata.cityofnewyork.us/) has data that can be downloaded or manipulated online.
+- [Data sets for journalists](http://cjlab.stanford.edu/2015/09/30/lab-launch-and-data-sets/) as compiled by Stanford professor Dan Nguyen.
+- [CensusReporter.org](http://censusreporter.org/) provides demographic data on a variety levels (city, county, Census Tract) that can be downloaded or viewed online. 
 
-## Data objectives 
-In addition t. By the end of the semester, you should 
-
-NND III
-Data in the real world
-Review where to find data and how to request data from governments
-Importing data that isn’t already ready in a spreadsheet
-Import .csv and other formats into a spreadsheet program 
-Simple scraping with Google Docs 
-Using tabula or other program to parse PDFs into a spreadsheet
-
-Cleaning data up
-Using advanced functions to parse data
-Formatting dates
-Text to columns and parsing state and cities in campus data or other data from data bank. 
-Tricks and tips when working with government data 
+### Class Visits and Assignments
+1. [September 18, 2017](https://coulterjones/github.io//New-School-NND-III-lichter/Week1).
+2. Second vist (TK)
+3. Third visit (TK)
 
 
 
-### First Visit (Sept. 18)
 
-
-
-You can use the [editor on GitHub](https://github.com/CoulterJones/New-School-NND-III-lichter/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
 
