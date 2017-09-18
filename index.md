@@ -9,7 +9,7 @@ This is a collection of resources, lessons plans and assignments for the data po
 **Your data embed:** Coulter Jones, Reporter, _The Wall Street Journal._ can be reached via email at [coulterjones@gmail.com](mailto:coulterjones@gmail.com) or [jonescw@newschool.edu](mailto:jonescw@newschool.edu). Expect up to 24 hours for a response. 
 
 ## Data Objectives
-As part of your semester-long look at reporting and other skills through the lends of Solutions Journalism, you will be expanding your data journalism skills, both in your technical skills and in your data literacy. As this is the third, NND course of the program we will be reviewing and building on your previous knowledge of data journalism. By the end of the semester you will: 
+As part of your semester-long look at reporting and other skills through the lense of Solutions Journalism, you will expand your technical data skills and your data literacy. We will review and build on lessons from prior semesters and by the end of the course you will: 
 - Know how to find and request data from governments
 - Show competency in data literarcy and be able to ask critical questions of data used for journalism
 - Be able to import data that into a spreadsheet program and manipulate that information for simple analysis
