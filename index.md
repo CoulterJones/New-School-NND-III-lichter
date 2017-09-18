@@ -5,12 +5,14 @@
 
 Link to this site: [xxxx](https://github.com/CoulterJones/New-School-NND-III-lichter/edit/master/index.md) 
 
-**Data Embed** Coulter Jones 
+**Data Embed** Coulter Jones ioi
+
 Reporter, _The Wall Street Journal._ 
+
 [coulterjones@gmail.com](mailto:coulterjones@gmail.com)
 
 
-### First Visit:
+### First Visit (Sept. 18)
 
 
 
