@@ -1,6 +1,6 @@
 # News Narrative & Design III 
 # (Fall 2017)
-## Professor Alison Lichter
+## Professor Allison Lichter
 #### Monday, 9 - 11:40 a.m.
 
 ## BOOKMARK THIS PAGE: [bit.ly/new-school-fall-17](http://bit.ly/new-school-fall-17) 
