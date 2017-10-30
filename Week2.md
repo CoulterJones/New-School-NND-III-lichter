@@ -22,10 +22,10 @@ Two parts:
 
 2. Answer the following questions, using the Buzzfeed data that we worked with in class.
 
- * On which day of the week were posts published with the most total shares?
+ * Which publishing day of the week had the most total shares?
 
  * Which day of the week had posts with the most comments per post? 
 
- * **Bonus:** In this small sample of the data, which types had a higher level of enagement, posts that are mostly false or posts that are mostly true? Explain your data and reasoning. Lastly, if you were to do a story the spread of misinformation, who would you want to interview and why? 
+ * **Bonus:** In this small sample of the data, which type of post had a higher level of enagement, posts that are mostly false or posts that are mostly true? Explain your data and reasoning. Lastly, if you were to do a story the spread of misinformation, who would you want to interview and why? 
 
 * _The bonus question is not required. It can only help earn back points missed on this week's assignment and previous or future assignments._
