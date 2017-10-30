@@ -28,5 +28,5 @@ As part of your semester-long look at reporting and other skills through the len
 
 ### Class Visits and Assignments
 1. [September 18, 2017](Week1)
-2. October 30 (link TK)
+2. [October 30, 2017](Week2)
 3. November 6 (link TK)
