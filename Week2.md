@@ -35,7 +35,7 @@ Two parts:
 
 1. Email Coulter [coulterjones@gmail.com](mailto:coulterjones@gmail.com) at least one data source for your final project, **include the data**, how you got it and what you hope to find with it. If you have not yet identified data for your project, email me potential sources you're interestd in and why.
 
-2. Using the NYC Schools data answer these two questions and explain how you go the answers. 
+2. Using the NYC Schools data answer these two questions and show how you got your answers. 
 
  * On January 23, 2012, how many schools had an attendance rate lower than 40%?
 
@@ -43,4 +43,3 @@ Two parts:
 schools?
 
  * **Bonus:** As a reporter, who would you want to interview for a project that addressed why attendance was so low and what could be done to improve upon it going forward?
-
